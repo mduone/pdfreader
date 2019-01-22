@@ -1,0 +1,96 @@
+{
+  "ads": [
+    {
+      "status": 1,
+      "package-name": "com.pdf.reader.pdfreader.simple.apps",
+      "name": "start",
+      "value": "1776719702340327_1776720569006907",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 30,
+      "time-after-start": 0,
+      "count-show": 1,
+      "max-show-day": 10,
+      "show-loading": false
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.reader.pdfreader.simple.apps",
+      "name": "default",
+      "value": "ca-app-pub-5686065012807485/2029807053",
+      "show-default": false,
+      "type": "2",
+      "enable": true,
+      "time-show": 20,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 50
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.reader.pdfreader.simple.apps",
+      "name": "read",
+      "value": "1776719702340327_1776720569006907",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 45,
+      "time-after-start": 0,
+      "count-show": 1,
+      "max-show-day": 15,
+      "show-loading": false
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.reader.pdfreader.simple.apps",
+      "name": "out",
+      "value": "1776719702340327_1783106948368269",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 300,
+      "time-after-start": 86400,
+      "count-show": 0,
+      "max-show-day": 5,
+      "last-active": 43200
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.reader.pdfreader.simple.apps",
+      "name": "fb_banner",
+      "value": "1776719702340327_2263519613660331",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 20,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 10
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.reader.pdfreader.simple.apps",
+      "name": "admob_banner",
+      "value": "ca-app-pub-5686065012807485/1772436852",
+      "show-default": true,
+      "type": "2",
+      "enable": true,
+      "time-show": 20,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 10
+    }
+  ],
+  "promo": [
+     {
+      "status": 1,
+      "package-name": "com.relax.naturalsounds.sleepsound",
+      "enable": false,
+      "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/sleep_banner.png",
+      "max-show-day": 30,
+      "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/full_sleep.png",
+      "image-native": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/sleep_native.png"
+    }
+  ]
+}
