@@ -1,0 +1,85 @@
+{
+  "ads": [
+    {
+      "status": 1,
+      "var1": "com.facebook.sdk",
+      "var2": "Facebook",
+      "var3": "ca-app-pub-5252996458302778/8320846253",
+      "var4": "Unity",
+      "var5": false,
+      "var6": "admob_banner",
+      "var7": "facebook_banner"
+    },
+    {
+      "status": 1,
+      "var1": "com.google.gms.ads.sdk",
+      "var2": "469968116847006_473404646503353",
+      "var3": "",
+      "var4": "",
+      "var5": false,
+      "var6": "ca-app-pub-3940256099942544/6300978111",
+      "var7": ""
+    },
+    {
+      "status": 1,
+      "var1": "com.asuna.ilauncher.ios12.iphonexs",
+      "var2": "",
+      "var3": "ca-app-pub-5252996458302778/8320846253",
+      "var4": "1689975",
+      "var5": true,
+      "var6": "ca-app-pub-5252996458302778/2340740730",
+      "var7": ""
+    },
+    {
+      "status": 1,
+      "var1": "com.asuna.ilauncher.iphonex.ios11.free",
+      "var2": "",
+      "var3": "ca-app-pub-5252996458302778/3656677209",
+      "var4": "1689975",
+      "var5": true,
+      "var6": "ca-app-pub-5252996458302778/6816809814",
+      "var7": ""
+    }
+    ,
+    {
+      "status": 1,
+      "var1": "com.keepsafe.best.musicplayer",
+      "var2": "",
+      "var3": "ca-app-pub-8127359539273086/8509722946",
+      "var4": "1689975",
+      "var5": true,
+      "var6": "ca-app-pub-8127359539273086/6292831133",
+      "var7": ""
+    },
+    {
+      "status": 1,
+      "var1": "com.relax.naturalsounds.sleepsound",
+      "var2": "469968116847006_473404646503353",
+      "var3": "ca-app-pub-5686065012807485/9804799766",
+      "var4": "2893633",
+      "var5": true,
+      "var6": "ca-app-pub-5686065012807485/1410346564",
+      "var7": "469968116847006_469968230180328"
+    },
+     {
+      "status": 1,
+      "var1": "com.samsungmusic.edgeplayer.s9music.s9plus",
+      "var2": "896886563806512_897433840418451",
+      "var3": "ca-app-pub-5686065012807485/3633409637",
+      "var4": "2893633",
+      "var5": true,
+      "var6": "ca-app-pub-5686065012807485/3386271623",
+      "var7": "896886563806512_896890103806158"
+    }, 
+    {
+      "status": 1,
+      "var1": "com.asuna.win10.pclauncher",
+      "var2": "249632752261234_249632818927894",
+      "var3": "ca-app-pub-5252996458302778/5064515882",
+      "var4": "1687662",
+      "var5": false,
+      "var6": "ca-app-pub-5252996458302778/4153798435",
+      "var7": "249632752261234_252963988594777"
+    }
+  ]
+}
